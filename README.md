@@ -2,6 +2,8 @@
 
 Python code to easily convert `.mpga` audio files to `.mp3` format in bulk. The code can handle 100s and even 1000s of MPGA audio files to MP3 saved on your local computer.
 
+![Bulk Convert MPGA Audio Files to MP3](/screenshot.jpg)
+
 Here's how you can run the code on your computer:
 
 ## 1. Create the `app.py` file
