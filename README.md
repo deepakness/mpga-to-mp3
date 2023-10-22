@@ -70,3 +70,5 @@ python app.py
 > Note that, depending upon the Python version and setup on your computer, you may need to use `pip3` and `python3` instead of `pip` and `python` when running the code.
 
 After running the code, your audio files will start getting converted from `.mpga` to `.mp3` file format and the `.mp3` files are saved inside `/mp3` folder inside the main folder.
+
+You can learn more about the process in [this blog post](https://deepakness.com/blog/mpga-to-mp3/).
